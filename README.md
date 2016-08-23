@@ -44,7 +44,7 @@ The OPML file (`feeds.opml`) in this repo contains a list of sources. Feel free 
 
 **Short Codes**
 
-Please use the folllowing "short code" you refer to content in other AWS blogs:
+Please use the folllowing "short codes" when you refer to content in other AWS blogs:
 
 * [iotblog] - The Internet of Things on AWS Blog.
 * [devblog] - AWS Developer Blog.
@@ -70,7 +70,6 @@ Please use the folllowing "short code" you refer to content in other AWS blogs:
 For example, an entry might look like "The [iotblog] talked about ...."
 
 Also, please feel free to invent similar codes for the non-AWS blogs. Put them in the file `shortcodes.txt`.
-
 
 **Contributing**
 
