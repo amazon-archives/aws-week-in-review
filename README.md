@@ -42,7 +42,38 @@ Each Week in Review contains the following sections:
 
 The OPML file (`feeds.opml`) in this repo contains a list of sources. Feel free to use it to find content, and add your own sources as well.
 
+**Short Codes**
+
+Please use the folllowing "short code" you refer to content in other AWS blogs:
+
+* [iotblog] - The Internet of Things on AWS Blog.
+* [devblog] - AWS Developer Blog.
+* [gamedevblog] - Amazon GameDev Blog.
+* [cliblog] - AWS Command Line Tool Blog.
+* [govblog] - AWS Government, Education, & Nonprofits Blog.
+* [javascriptblog] - AWS JavaScript Blog.
+* [phpblog] - PHP Developer Blog.
+* [rubyblog] - AWS Ruby Development Blog.
+* [secblog] - AWS Security Blog.
+* [startupblog] - AWS Startup Collection.
+* [entblog] - Enterprise Blog.
+* [javablog] - AWS Java Blog.
+* [mobileblog] - AWS Mobile Development Blog.
+* [netblog] - AWS Windows and .NET Developer Blog.
+* [appmgmtblog] - AWS DevOps Blog.
+* [archblog] - AWS Architecture Blog.
+* [bigdatablog] - AWS Big Data Blog.
+* [computeblog] - AWS Compute Blog.
+* [sesblog] - Amazon Simple Email Service Blog.
+* [apnblog] - AWS Partner Network Blog.
+
+For example, an entry might look like "The [iotblog] talked about ...."
+
+Also, please feel free to invent similar codes for the non-AWS blogs. Put them in the file `shortcodes.txt`.
+
+
 **Contributing**
+
 You can contribute to this project (and to the AWS Week in Review) by cloning the repo, adding content to the current `week-in-review-` file, and then submitting a pull request. 
 
 Over time, there may be other avenues, such as issues.
