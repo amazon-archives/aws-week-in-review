@@ -73,9 +73,11 @@ Also, please feel free to invent similar codes for the non-AWS blogs. Put them i
 
 **Contributing**
 
-You can contribute to this project (and to the AWS Week in Review) by cloning the repo, adding content to the current `week-in-review-` file, and then submitting a pull request. 
+You can contribute to this project (and to the AWS Week in Review) by cloning the repo, adding content to the current `week-in-review-` file, and then submitting a pull request. Over time, there may be other avenues, such as issues.
 
-Over time, there may be other avenues, such as issues.
+Every Monday morning, Jeff will review and accept pull requests until 10 AM PT and endeavor to produce a new Week in Review shortly thereafter.
+
+Please feel free to suggest improvements to the process and to the use of GitHub as well.
 
 
 
