@@ -1,6 +1,7 @@
 The files in this GitHub Repo are used to produce the [AWS Week in Review](https://aws.amazon.com/blogs/aws/category/week-in-review/). 
 
 **History**
+
 In the early days of AWS, Jeff Barr wrote the Week in Review each week. Initially this took just 5 or 10 minutes, but as the pace of
 innovation quickened and the size of the AWS community grew, Jeff sometimes spent 4 or 5 hours finding and formatting the content.
 
@@ -8,6 +9,7 @@ The new model, introducd in August of 2016, is crowdsourced. AWS fans, users, bl
 to the project and to the AWS Week in Review.
 
 **Content & Style Guidelines**
+
 Here are the guidelines for making contributions:
 
 * **Relevance** - All contributions must be directly related to AWS.
@@ -33,7 +35,7 @@ Each Week in Review contains the following sections:
 * New & Notable Open Source.
 * New SlideShare Presentations.
 * New YouTube Videos including APN Success Stories.
-* New [marketplace] products.
+* New [AWS Marketplace](https://aws.amazon.com/marketplace) products.
 * New Customer Success Stories.
 * Upcoming Events.
 * Help Wanted.
