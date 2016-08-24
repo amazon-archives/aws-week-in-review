@@ -7,7 +7,7 @@ Contributing is easy; you can simply create a GitHub account and make edits to t
 In the early days of AWS, Jeff Barr wrote the Week in Review each week. Initially this took just 5 or 10 minutes, but as the pace of
 innovation quickened and the size of the AWS community grew, Jeff sometimes spent 4 or 5 hours finding and formatting the content.
 
-The new model, introducd in August of 2016, is crowdsourced. AWS fans, users, bloggers, and partners are all invited to contribute
+The new model, introduced in August of 2016, is crowdsourced. AWS fans, users, bloggers, and partners are all invited to contribute
 to the project and to the AWS Week in Review.
 
 **Content & Style Guidelines**
@@ -80,6 +80,3 @@ You can contribute to this project (and to the AWS Week in Review) by cloning th
 Every Monday morning, Jeff will review and accept pull requests until 10 AM PT and endeavor to produce a new Week in Review shortly thereafter.
 
 Please feel free to suggest improvements to the process and to the use of GitHub as well.
-
-
-
