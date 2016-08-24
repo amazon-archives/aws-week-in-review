@@ -1,6 +1,6 @@
 The files in this GitHub Repo are used to produce the [AWS Week in Review](https://aws.amazon.com/blogs/aws/category/week-in-review/). 
 
-Contributing is easy; you can simply create a GitHub account and make edits to the current `week-in-review-` file from the comfort of your web browser. 
+Contributing is easy; you can simply create a GitHub account and make edits to the current `week-in-review-` file from the comfort of your web browser.  Read [this post](https://aws.amazon.com/blogs/aws/aws-week-in-review-coming-back-with-your-help/) for step-by-step directions.
 
 **History**
 
