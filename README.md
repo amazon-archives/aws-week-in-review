@@ -1,5 +1,7 @@
 The files in this GitHub Repo are used to produce the [AWS Week in Review](https://aws.amazon.com/blogs/aws/category/week-in-review/). 
 
+Contributing is easy; you can simply create a GitHub account and make edits to the `week-in-review-` file from the comfort of your web browser. 
+
 **History**
 
 In the early days of AWS, Jeff Barr wrote the Week in Review each week. Initially this took just 5 or 10 minutes, but as the pace of
