@@ -1,3 +1,6 @@
+New Shortcodes:
+
+Known Shortcodes:
 [backspaceblog] - Backspace Academy Blog
 [ckblog] - CloudKinetics Blog
 [cloudabilityblog] - Cloudability Blog
