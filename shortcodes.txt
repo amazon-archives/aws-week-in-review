@@ -1,2 +1,4 @@
 [backspaceblog] - Backspace Academy Blog
 [ckblog] - CloudKinetics Blog
+[cloudabilityblog] - Cloudability Blog
+
