@@ -1,7 +1,16 @@
+To register a new shortcode, create an entry in New Shortcodes. Include the following info:
+
+* Shortcode (one word, lower case, no punctuation)
+* Name (see examples below)
+* URL
+
+Each week, the entries in the New Shortcodes section will be copied over to the AWS Blog platform and then moved to Known Shortcodes.
+
 New Shortcodes:
-[awspodcast] - AWS Podcast
+
 Known Shortcodes:
 [backspaceblog] - Backspace Academy Blog
 [ckblog] - CloudKinetics Blog
 [cloudabilityblog] - Cloudability Blog
 [cloudacademyblog] - Cloud Academy Blog
+[awspodcast] - AWS Podcast
