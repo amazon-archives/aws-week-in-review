@@ -1,5 +1,5 @@
 New Shortcodes:
-
+[awspodcast] - AWS Podcast
 Known Shortcodes:
 [backspaceblog] - Backspace Academy Blog
 [ckblog] - CloudKinetics Blog
