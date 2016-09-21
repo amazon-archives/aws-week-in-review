@@ -18,7 +18,7 @@ These guidelines are intentionally slim, and will evolve along with the project.
 * Create a branch off of the master branch.
 * Add some appropriate content.
 * Make a commit with one or more new pieces of content.
-* Submit a [pull request](https://help.github.com/send-pull-requests/).
+* Submit a [pull request](https://help.github.com/articles/creating-a-pull-request/).
 
 
 
