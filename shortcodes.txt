@@ -7,7 +7,6 @@ To register a new shortcode, create an entry in New Shortcodes. Include the foll
 Each week, the entries in the New Shortcodes section will be copied over to the AWS Blog platform and then moved to Known Shortcodes.
 
 New Shortcodes:
-[stelligentblog] - Stelligent Blog https://stelligent.com/blog/
 
 Known Shortcodes:
 [backspaceblog] - Backspace Academy Blog
@@ -15,3 +14,4 @@ Known Shortcodes:
 [cloudabilityblog] - Cloudability Blog
 [cloudacademyblog] - Cloud Academy Blog
 [awspodcast] - AWS Podcast
+[stelligentblog] - Stelligent Blog https://stelligent.com/blog/
