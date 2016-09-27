@@ -9,8 +9,8 @@ These guidelines are intentionally slim, and will evolve along with the project.
 * Make sure you have a [GitHub account](https://github.com/signup/free).
 * Edit in the browser - read [this post](https://aws.amazon.com/blogs/aws/aws-week-in-review-coming-back-with-your-help/) for step-by-step directions.
 * Edit from the command line. Don't forget to:
-** Set your user name: `git config --global user.name "YOUR NAME"`
-** Set your email address: `git config --global user.email "YOUR EMAIL"`
+  * **Set your user name:** `git config --global user.name "YOUR NAME"`
+  * **Set your email address:** `git config --global user.email "YOUR EMAIL"`
 
 
 ## Making Changes
