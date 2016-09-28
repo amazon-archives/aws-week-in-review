@@ -14,3 +14,4 @@ Known Shortcodes:
 [cloudabilityblog] - Cloudability Blog
 [cloudacademyblog] - Cloud Academy Blog
 [awspodcast] - AWS Podcast
+[stelligentblog] - Stelligent Blog https://stelligent.com/blog/
