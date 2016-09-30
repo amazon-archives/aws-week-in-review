@@ -71,7 +71,7 @@ Please use the folllowing "short codes" when you refer to content in other AWS b
 
 For example, an entry might look like "The [iotblog] talked about ...."
 
-Also, please feel free to invent similar codes for the non-AWS blogs. Put them in the file `shortcodes.txt`.
+Also, please feel free to invent similar codes for the non-AWS blogs. Put them in the file [`shortcodes.txt`](https://github.com/aws/aws-week-in-review/blob/master/shortcodes.txt).
 
 **Contributing**
 
