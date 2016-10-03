@@ -15,3 +15,4 @@ Known Shortcodes:
 [cloudacademyblog] - Cloud Academy Blog
 [awspodcast] - AWS Podcast
 [stelligentblog] - Stelligent Blog https://stelligent.com/blog/
+[pucblog] - Powerupcloud Blog
