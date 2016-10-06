@@ -42,7 +42,7 @@ Each Week in Review contains the following sections:
 * Upcoming Events.
 * Help Wanted.
 
-The OPML file (`feeds.opml`) in this repo contains a list of sources. Feel free to use it to find content, and add your own sources as well.
+The OPML file ([`feeds.opml`](https://github.com/aws/aws-week-in-review/blob/master/feeds.opml)) in this repo contains a list of sources. Feel free to use it to find content, and add your own sources as well.
 
 **Short Codes**
 
