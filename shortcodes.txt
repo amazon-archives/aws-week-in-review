@@ -17,3 +17,5 @@ Known Shortcodes:
 [stelligentblog] - Stelligent Blog https://stelligent.com/blog/
 [pucblog] - Powerupcloud Blog
 [awsadventblog] - AWS Advent https://www.awsadvent.com/
+[trek10] - Trek10 - https://www.trek10.com/blog/
+[dzone] - DZone Cloud Zone - https://dzone.com/cloud-computing-tutorials-tools-news
