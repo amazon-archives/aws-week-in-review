@@ -29,7 +29,7 @@ Here are the guidelines for style:
 
 There's room for some innovation and variation to keep things interesting, but keep it clean and concise.
 
-** Weekly Schedule **
+**Weekly Schedule**
 
 Here's the plan (all times are PT):
 
