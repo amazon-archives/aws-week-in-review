@@ -7,6 +7,7 @@ To register a new shortcode, create an entry in New Shortcodes. Include the foll
 Each week, the entries in the New Shortcodes section will be copied over to the AWS Blog platform and then moved to Known Shortcodes.
 
 New Shortcodes:
+[awsadventblog] - AWS Advent https://www.awsadvent.com/
 
 Known Shortcodes:
 [backspaceblog] - Backspace Academy Blog
