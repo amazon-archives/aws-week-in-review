@@ -29,6 +29,16 @@ Here are the guidelines for style:
 
 There's room for some innovation and variation to keep things interesting, but keep it clean and concise.
 
+**Weekly Schedule**
+
+Here's the plan (all times are PT):
+
+* Monday, 8:30 AM - HTML for previous week copied to WordPress and finalized.
+* Monday, 10:00 AM - Week in Review published.
+* Monday, 10:00 AM - HTML for current week created in GitHub.
+* Monday to Monday - Current week edited by contributors and pull requests created.
+* Monday to Monday - Pull requests accepted.
+
 **Week in Review Sections**
 
 Each Week in Review contains the following sections:
@@ -42,7 +52,7 @@ Each Week in Review contains the following sections:
 * Upcoming Events.
 * Help Wanted.
 
-The OPML file (`feeds.opml`) in this repo contains a list of sources. Feel free to use it to find content, and add your own sources as well.
+The OPML file ([`feeds.opml`](https://github.com/aws/aws-week-in-review/blob/master/feeds.opml)) in this repo contains a list of sources. Feel free to use it to find content, and add your own sources as well.
 
 **Short Codes**
 
@@ -71,12 +81,10 @@ Please use the folllowing "short codes" when you refer to content in other AWS b
 
 For example, an entry might look like "The [iotblog] talked about ...."
 
-Also, please feel free to invent similar codes for the non-AWS blogs. Put them in the file `shortcodes.txt`.
+Also, please feel free to invent similar codes for the non-AWS blogs. Put them in the file [`shortcodes.txt`](https://github.com/aws/aws-week-in-review/blob/master/shortcodes.txt).
 
 **Contributing**
 
 You can contribute to this project (and to the AWS Week in Review) by cloning the repo, adding content to the current `week-in-review-` file, and then submitting a pull request. Over time, there may be other avenues, such as issues.
-
-Every Monday morning, Jeff will review and accept pull requests until 10 AM PT and endeavor to produce a new Week in Review shortly thereafter.
 
 Please feel free to suggest improvements to the process and to the use of GitHub as well.

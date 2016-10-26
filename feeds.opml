@@ -119,6 +119,7 @@
             <outline type="rss" text="Hack.FoolAround.Repeat" title="Hack.FoolAround.Repeat" xmlUrl="http://w3h4ppyf3w.tumblr.com/rss" htmlUrl="http://w3h4ppyf3w.tumblr.com/"/>
             <outline type="rss" text="DC Solution Factory" title="DC Solution Factory" xmlUrl="http://www.dcsolutionfactory.ca/feed/" htmlUrl="http://www.dcsolutionfactory.ca"/>
             <outline type="rss" text="N2WS Blog" title="N2WS Blog" xmlUrl="http://www.n2ws.com/feed/Footer-RSS/feed.html" htmlUrl="http://www.n2ws.com"/>
+            <outline type="rss" text="FuzzyBlog" title="FuzzyBlog" xmlUrl="https://fuzzygroup.github.io/blog/feed.xml" htmlUrl="https://https://fuzzygroup.github.io/blog/">
         </outline>
 
         <outline text="Amazon" title="Amazon">
