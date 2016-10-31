@@ -21,3 +21,4 @@ Known Shortcodes:
 [dzone] - DZone Cloud Zone - https://dzone.com/cloud-computing-tutorials-tools-news
 [botmetric] - Botmetric - https://www.botmetric.com/ 
 [cloudcheckr] - CloudCheckr - http://cloudcheckr.com/blog/
+[serverlesscode] - Serverless Code - https://serverlesscode.com/
