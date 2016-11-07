@@ -15,7 +15,7 @@ to the project and to the AWS Week in Review.
 Here are the guidelines for making contributions:
 
 * **Relevance** - All contributions must be directly related to AWS.
-* **Ownership** - All contributions remain the property of the contributor.
+* **Ownership** - All contributions remain the property of the contributor, but you grant AWS an unlimited license.
 * **Validity** - All links must be to publicly available content (links to free, gated content are fine).
 * **Timeliness** - All contributions must refer to content that was created on the associated date.
 * **Neutrality** - This is not the place for editorializing. Just the facts / links.
