@@ -1,3 +1,10 @@
+**Archived**
+============
+
+The Week in Review is no longer being published. You can visit https://aws.amazon.com/new/ to track the latest product, service, and feature announcements from AWS.
+
+---
+
 The files in this GitHub Repo are used to produce the [AWS Week in Review](https://aws.amazon.com/blogs/aws/category/week-in-review/). 
 
 Contributing is easy; you can simply create a GitHub account and make edits to the current `week-in-review/YYYY/MM/week-in-review-` file from the comfort of your web browser.  You can add your own content, or content from others. Read [this post](https://aws.amazon.com/blogs/aws/aws-week-in-review-coming-back-with-your-help/) for step-by-step directions.
